@@ -7,7 +7,7 @@ This project consists of a Start Code with an App and a Db.
 - The project will also have a CI/CD pipeline which will be listening to push requests, if successful it will merge to master.
 
 ### Prerequisites
-- In order to run the Nodejs Cookbook you must ensure you have the packages bellow:
+- In order to run the Nodejs Cookbook you must ensure you have the packages below:
 
 ```CSS
 - Virtualbox
