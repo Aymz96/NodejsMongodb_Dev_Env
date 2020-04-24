@@ -86,5 +86,5 @@ To view fibonacci:
 ### Success
 - Tests have passed successfully.
 
-## Author
+#### Author
 **Ayman Yousfi** - *Junior DevOps Engineer* - [Aymz96](https://github.com/Aymz96)
