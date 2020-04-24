@@ -76,12 +76,11 @@ npm start
 ### Displaying the App
 - Once the app has started, open a new web browser and enter the following:
 
-To view the app:
-- `development.local
-To view the posts:
-- `development.local:/posts`
-To view fibonacci:
-- `development.local:/fibonacci5`
+- `development.local' To view the app
+
+- `development.local:/posts` To view the posts
+
+- `development.local:/fibonacci5` To view fibonacci:
 
 ### Success
 - Tests have passed successfully.
