@@ -1,4 +1,4 @@
-# Start Code CI/CD :computer: :cd: :electric_plug:
+# Start Code CI/CD :computer: :cd:
 
 This project consists of a Nodejs App and a Database.
 
@@ -35,7 +35,7 @@ This project consists of a Nodejs App and a Database.
 - In order to download this repository, open your terminal and run:
 
 ```python
-git clone git@github.com:Aymz96/Nodejs_Development_Environment.git
+git clone git@github.com:Aymz96/NodejsMongodb_Dev_Env.git
 ```
 ### Testing the files
 - To test the files you must cd into the Nodejs_Dev_Environment:
