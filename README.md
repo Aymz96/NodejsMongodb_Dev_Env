@@ -81,7 +81,7 @@ To view the app:
 To view the posts:
 - `development.local:/posts`
 To view fibonacci:
-- `development.local:3000/fibonacci5`
+- `development.local:/fibonacci5`
 
 ### Success
 - Tests have passed successfully.
