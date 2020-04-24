@@ -1,6 +1,6 @@
 # Start Code CI/CD :computer: :cd:
 
-This project consists of a Nodejs App and a Database.
+This project consists of a Nodejs App and a Mongo Database.
 
 - The repository contains a development environment for the project. It uses node package manager and provisioning of the app/db to display a working app, posts and fibonacci on a web browser.
 
