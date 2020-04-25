@@ -80,7 +80,7 @@ npm start
 
 - `development.local:/posts` To view the posts.
 
-- `development.local:/fibonacci5` To view the fibonacci.
+- `development.local:/fibonacci/5` To view the fibonacci.
 
 ### Success
 - Tests have passed successfully.
